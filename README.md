@@ -1,6 +1,5 @@
 # Discord Bot
-
-A Simple Discord Bot.
+A Simple Discord Bot using discord.js.
 
 # Installation
 Make sure you have these installed: </br>
